@@ -58,8 +58,6 @@ const list2 = () : void => {
     addEventOnOption(Listpush)
 }
 
-
-
 const addAll = () : void => {
  if(Listpush.length === 0){
     Listpush = productList
